@@ -1,0 +1,46 @@
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center; 
+}
+
+.card {
+    background-color:#cba7e4;
+    border-radius: 1rem;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1);
+    padding: 1rem;
+    width: calc(50% - 1rem);
+    box-sizing: border-box;
+    margin: 0.5rem; 
+}
+
+
+img {
+    width: 8rem;
+    height: 10rem;
+    border-radius: 1rem;
+}
+
+.name-product {
+    font-size: 1.5rem;
+}
+
+
+.button-buy {
+    justify-items: center;
+    background-color: #FFE5EE;
+    margin-left: 5.5rem;
+    cursor: pointer;
+    transition:cubic-bezier(0.785, 0.135, 0.15, 0.86)
+}
+
+.button:hover {
+    background-color: #0056b3; 
+  }
+
+
+
+
+
+

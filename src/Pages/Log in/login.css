@@ -1,0 +1,62 @@
+html {
+    background-color: #F5EBEB;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+.imgLogin {
+    width: 20rem;
+    height: 25rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: block; 
+
+}
+
+.containerLogin {
+    
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 6rem;
+}
+
+
+
+.inputLogin {
+    width: 10rem;
+    height: 2rem;
+    
+}
+
+.inputUser {
+    margin-bottom: 1rem;
+}
+
+button {
+    background-color: #DEAEAE;
+    width: 8rem;
+    height: 2rem;
+    border-radius: 2rem;
+    color: black;
+    font-weight: 1000;
+    border: none;
+    margin-top: 1rem;
+    cursor: pointer;
+
+}
+
+.input-error {
+    border: 2px solid red;
+  }
+  
+  .error-message {
+    color: red;
+  }
+
+
+
+  

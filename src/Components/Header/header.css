@@ -1,0 +1,22 @@
+.header {
+    color: #6F5346;
+    font-size: 2rem;
+    background-color: #DEAEAE;
+    border-radius: 2rem;
+
+
+}
+
+.cart-icon {
+    margin-left: 2rem;
+}
+
+.cart-icon, .home-icon {
+    margin-top: 0.5rem;
+}
+
+.user {
+text-align: center;
+color:black;
+font-weight: bold;
+}

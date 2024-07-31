@@ -1,0 +1,21 @@
+.footer {
+    background-color: #FFE5EE;
+    border-radius: 1rem;
+}
+
+.footer-arrow {
+    margin-top: 0.5rem;
+    margin-right: 5rem;
+    font-size: 2rem;
+    background-color: whitesmoke;
+    border-radius: 2rem;
+
+
+}
+
+.footer {
+    position: fixed; 
+    bottom: 0;
+    width: 100%;
+    height: 5%;
+}

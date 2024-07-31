@@ -1,0 +1,45 @@
+[
+    {
+      "id": "1",
+      "Name": "Beat men's watch",
+      "price": 110,
+      "image": "src/assets/RELOJ 1.webp",
+      "description": "Automatic Beat Men's Watch with Milanese steel case and mesh. Black dial, white and silver indexes and calendar at three o'clock"
+    },
+    {
+        "id": "2",
+        "Name": "Men's Dress Watch",
+        "price": 150,
+        "image": "src/assets/RELOJ 2.webp",
+        "description": "A men's watch with clean lines, extra-thin with sapphire crystal. It consists of a steel case and bracelet, with a white dial and silver-colored indexes and hands. Calendar at 3 o'clock. An accessory that is worn with style and elegance"
+      
+    },
+    {
+        "id": "3",
+        "Name": "Magnum men's watch",
+        "price": 90,
+        "image": "src/assets/RELOJ 3.webp",
+        "description": "Multifunction Magnum Men's Watch with steel case with gold IP, black dial with gold indexes and counters at 3, 6 and 9, black silicone strap"
+    },
+    {
+        "id": "4",
+        "Name": "Grand men's watch",
+        "price": 140,
+        "image": "src/assets/RELOJ 4.webp",
+        "description": "Grand three-hand men's watch with steel case and brown leather strap, white dial with Arabic numerals and calendar at 3 o'clock"
+    },
+    {
+        "id": "5",
+        "Name": "Grand 3 men's watch",
+        "price": 180,
+        "image": "src/assets/RELOJ 5.webp",
+        "description": "Grand Men's Watch three needles with steel case and bracelet with gold IP. The white dial with gold indexes and Roman numerals."
+    },
+    {
+        "id": "6",
+        "Name": "Chic Men's Watch",
+        "price": 190,
+        "image": "src/assets/reloj 6.webp",
+        "description": "CHIC Multifunction men's watch with gold dial and gold IP steel bracelet with push-button folding clasp"
+    }
+  ]

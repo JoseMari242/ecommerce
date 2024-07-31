@@ -1,0 +1,48 @@
+h2 {
+    text-align: center;
+}
+
+
+.cart-container {
+    display: flex; 
+    flex-wrap: wrap; 
+    gap: 1rem; 
+
+}
+
+
+.card {
+    
+    background-color:#998787; 
+    border-radius: 1rem; 
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1); 
+    padding: 1rem; 
+    width: calc(48% - 1rem); 
+    box-sizing: border-box; 
+    justify-content: center;
+}
+
+
+img {
+    width: 8rem;
+    height: 10rem;
+    border-radius: 1rem;
+}
+
+.name-product {
+    font-size: 1.5rem;
+}
+
+
+.button-cart {
+   cursor: pointer;
+    justify-items: center;
+    background-color: #FFE5EE;
+    margin-right: 8rem;
+    cursor: pointer;
+    transition:cubic-bezier(0.785, 0.135, 0.15, 0.86)
+}
+
+.button:hover {
+    background-color: #0056b3; 
+  }
